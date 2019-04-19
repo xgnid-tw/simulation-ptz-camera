@@ -35,7 +35,7 @@ We have the following assumptions
 Simulation result
 ====
 We set the score is the sum of the product of each object and its covered weight.
-The field of view is 60° and the center is 20°. The camera period is 10s. All result is the averge of 100 kind of different minimun time.
+The field of view is 60° and the center is 20°. The camera period is 10s. All result is the averge of 100 kind of different minimun time.
 
 More figure with different camera number or restrict see [pp.29-35](/paper.pdf)
 <table border="0">
