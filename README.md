@@ -1,7 +1,7 @@
 PTZ camera simulator
 ======
 
-The goal of this project is to simulate PTZ camera scheduling of [VSS (Vision Splitting Scheduling)](https://drive.google.com/file/d/1fYSZnkw17IxDMPwCX5b55vwKcNYcTDkN/view?usp=sharing) and the algorithm in [this paper](https://ieeexplore.ieee.org/document/6965869).
+The goal of this project is to simulate PTZ camera scheduling of [VSS (Vision Splitting Scheduling)](https://drive.google.com/file/d/1fYSZnkw17IxDMPwCX5b55vwKcNYcTDkN/view?usp=sharing) and the algorithm in [this paper](https://ieeexplore.ieee.org/document/6965869).
 
 Simulation Model
 ====
@@ -20,7 +20,7 @@ We determinate the minimum detecting time of each object, and set the weights to
         </td>
         <td>
             <a href="https://i.imgur.com/yNvWDCW.png">
-                <img src="https://i.imgur.com/yNvWDCW.png">
+                <img src="https://i.imgur.com/yNvWDCW.png" width="400">
             </a>
         </td>
     </tr>
